@@ -39,7 +39,7 @@ A Physics engine built in C.
 
 ## Issues
 
-If face an issue, please notify it [here](https://github.com/phylus-alpha/phylus/issues) as a new issue.
+If you face an issue, please notify it [here](https://github.com/phylus-alpha/phylus/issues) as a new issue.
 
 # Contributing
 
