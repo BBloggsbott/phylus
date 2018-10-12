@@ -7,11 +7,13 @@ If you would like to contribute code, documentation, or other assets you can do 
 
 File an Issue
 -------------
+
 You can report bugs and feature requests to [GitHub Issues](https://github.com/BBloggsbott/BillingSystem/issues). As mentioned please look for a similar existing issue before submitting a new one.
 Label issues with the corrsponding [labels](https://github.com/BBloggsbott/BillingSystem/labels)
 
 How to Submit a Pull Request
 ----------------------------
+
 Pull requests are highly appreciated! Please follow the simple guidelines below.
 
 1. Fork the repository to your personal GitHub account.
