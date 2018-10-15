@@ -1,9 +1,0 @@
-{
-    "editor.autoIndent": true,
-    "editor.detectIndentation": true,
-    "editor.foldingStrategy": "indentation",
-    "editor.insertSpaces": false,
-    "editor.tabSize": 8,
-    "editor.wrappingIndent": "indent",
-    "files.insertFinalNewline": false
-}
