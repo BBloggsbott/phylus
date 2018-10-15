@@ -1,4 +1,4 @@
-# [![phylus-logo](https://github.com/phylus-alpha/phylus/blob/master/images/logo.png)](https://github.com/phylus-alpha/phylus) **phylus**
+# [![phylus-logo](https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/logo.png)](https://github.com/phylus-alpha/phylus) **phylus**
 
 ## Introduction
 
