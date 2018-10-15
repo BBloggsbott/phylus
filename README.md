@@ -2,7 +2,7 @@
 
 ## Introduction
 
-***the physics engine for the masses***
+motto: **the physics engine for the masses**
 
 Join us @ [![slack-icon](./images/slack.png)](https://phylus.slack.com/).
 

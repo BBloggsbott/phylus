@@ -1,9 +1,3 @@
-<!-- Thanks for submitting a pull request
-Please fill in some details about the PR, below.
-If the PR contains source code please make sure to run Checkstyle on it first.
-If you add unit tests we'll love you forever! 
--->
-
 # PULL REQUEST TITLE
 
 ## Contains
