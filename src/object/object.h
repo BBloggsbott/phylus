@@ -1,12 +1,12 @@
 #ifndef _OBJECT_H_
 #define _OBJECT_H_
 
-#ifndef _TYPES_H_
-#include "types.h"
+#ifndef _PHY_TYPES_H_
+#include "./types.h"
 #endif
 
 #ifndef _MASS_H_
-#include "mass.h"
+#include "./mass.h"
 #endif
 
 typedef struct objectProperties
@@ -33,7 +33,9 @@ defineProperties(coor_t centre)
 objprop_t
 getProperties()
 {
-	objprop_t properties = defineProperties(getCoordinates());
+	objprop_t properties = defineProperties(
+		getCoordinates()
+	);
 	return properties;
 }
 
@@ -51,7 +53,10 @@ object_t
 getObject()
 {
 	object_t newObject;
-	newObject = createObject(getProperties(), getMass());
+	newObject = createObject(
+		getProperties(),
+		getMass()
+	);
 	return newObject;
 }
 
@@ -59,7 +64,8 @@ void
 printObject(object_t object)
 {
 	printf("PROPERTIES:");
-	printf("\n\tCENTRE: (%f, %f)", object->properties->centre->xcoor, object->properties->centre->ycoor);
+	printf("\n\tCENTRE:");
+	printPair(object->properties->centre);
 	printf("\nMASS:%f\n", object->mass);
 }
 

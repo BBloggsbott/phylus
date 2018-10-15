@@ -1,6 +1,7 @@
 #include "./../src/object/object.h"
 
-int main(int argc, char *argv[])
+int
+main(int argc, char *argv[])
 {
 	object_t myObject = getObject();
 	printObject(myObject);

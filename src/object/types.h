@@ -35,6 +35,12 @@ getCoordinates()
 }
 
 void
+printPair(coor_t point)
+{
+	printf("(%f, %f", point->xcoor, point->ycoor);
+}
+
+void
 removeCoordinates(coor_t point)
 {
 	free(point);
