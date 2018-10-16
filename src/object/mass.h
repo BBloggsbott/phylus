@@ -1,15 +1,14 @@
 #ifndef _MASS_H_
 #define _MASS_H_
-
-typedef float mass_t;
-
+#include <stdlib.h>
+typedef float* mass_t;
 mass_t
 getMass()
 {
-	mass_t mass;
+	mass_t newMass;
+	newMass = (mass_t)malloc(sizeof(float));
 	printf("ENTER MASS:");
-	scanf("%f", &mass);
-	return mass;
+	scanf("%f", newMass);
+	return newMass;
 }
-
 #endif
