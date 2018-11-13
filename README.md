@@ -6,11 +6,11 @@ motto: **the physics engine for the masses**
 
 Join us @ [![slack-icon](./images/slack.png)](https://phylus.slack.com/).
 
-A Physics engine built in C.
+A Physics engine built in Rust.
 
 ## Overview
 
-* This is a Physics Engine built entirely on C.
+* This is a Physics Engine built entirely on Rust.
 
 ## System Requirements
 
