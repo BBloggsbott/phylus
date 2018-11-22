@@ -1,16 +1,16 @@
-# [![phylus-logo](https://github.com/phylus-alpha/phylus/blob/master/images/logo.png)](https://github.com/phylus-alpha/phylus) **phylus**
+# [![phylus-logo](.https://github.com/phylus-alpha/phylus/blob/master/images/logo.png)](https://github.com/phylus-alpha/phylus) **phylus**
 
 ## Introduction
 
-***the physics engine for the masses***
+motto: **the physics engine for the masses**
 
-Join us @ [![slack-icon](./images/slack.png)](https://phylus.slack.com/).
+Join us @ [![slack-icon](https://github.com/phylus-alpha/phylus/blob/master/images/slack.png)](https://phylus.slack.com/).
 
-A Physics engine built in C.
+A Physics engine built in Rust.
 
 ## Overview
 
-* This is a Physics Engine built entirely on C.
+* This is a Physics Engine built entirely on Rust.
 
 ## System Requirements
 
