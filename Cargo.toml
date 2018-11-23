@@ -1,6 +1,9 @@
 [package]
-name = "phylus-new"
+name = "phylus"
 version = "0.1.0"
-authors = ["BBloggsbott <vishal27.rs@gmail.com>"]
+authors = [
+	"BBloggsbott <vishal27.rs@gmail.com>",
+	"Aravind M <the.code.innovator@gmail.com>"
+]
 
 [dependencies]
