@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/logo.png" width=40 height=40>](https://github.com/phylus-alpha/phylus) **phylus**
+# [<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/logo.png" width=40 height=40>](https://github.com/phylus-alpha) **phylus**
 [![gitter](https://img.shields.io/gitter/room/the-code-innovator/phylus.svg?style=plastic)](https://gitter.im/phylusphysics/Lobby)
 [![Lines Of Code](https://tokei.rs/b1/github/phylus-alpha/phylus?category=code)]()
 [![MIT License](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/phylus-alpha/phylus/blob/master/LICENSE)
