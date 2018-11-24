@@ -5,6 +5,7 @@
 motto: **the physics engine for the masses**
 
 Join us @ [![slack-icon](./images/slack.png)](https://phylus.slack.com/).
+Chat @ [![Gitter](https://img.shields.io/gitter/room/the-code-innovator/phylus.svg?style=plastic)](https://gitter.im/phylusphysics/Lobby)
 
 A Physics engine built in Rust.
 
