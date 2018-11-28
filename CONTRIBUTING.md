@@ -8,8 +8,8 @@ If you would like to contribute code, documentation, or other assets you can do 
 File an Issue
 -------------
 
-You can report bugs and feature requests to [GitHub Issues](https://github.com/BBloggsbott/BillingSystem/issues). As mentioned please look for a similar existing issue before submitting a new one.
-Label issues with the corrsponding [labels](https://github.com/BBloggsbott/BillingSystem/labels)
+You can report bugs and feature requests to [GitHub Issues](https://github.com/phylus-alpha/phylus/issues). As mentioned please look for a similar existing issue before submitting a new one.
+Label issues with the corrsponding [labels](https://github.com/phylus-alpha/phylus/labels)
 
 How to Submit a Pull Request
 ----------------------------
